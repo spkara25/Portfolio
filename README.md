@@ -28,21 +28,10 @@ This is a modern, responsive, and slightly complex personal portfolio website bu
 4. Add your own skills and project links easily.
 5. Modify `phrases` in `script.js` to update the typing animation text.
 
-## 📸 Screenshots
-
-> Add screenshots here if desired using:
-> `![Screenshot](path-to-screenshot.png)`
-
 ## 🔧 Customization Tips
 
 - ✍️ Change the colors via CSS variables in `:root`
 - 🖼️ Add images or icons in the `assets/` folder and link in HTML
 - 🎨 Want fancier animation? Use additional CSS keyframes or JS libraries like GSAP
-
-## 📬 Contact
-
-Feel free to customize the contact form or add social links in your footer!
-
----
 
 Built with ❤️ for personal growth and creativity.
