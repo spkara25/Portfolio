@@ -12,7 +12,15 @@ This is a modern, responsive, and slightly complex personal portfolio website bu
 - 📬 **Contact Form** — Simple and styled form for visitors to reach out
 
 ## 📁 Folder Structure
-portfolio/ │ ├── index.html # Main HTML file ├── style.css # All styling (light & dark mode, animations) ├── script.js # JavaScript for theme, typing effect, animations └── assets/ # (Optional) Add images, icons, or fonts here
+portfolio/
+│
+├── index.html          # Main HTML file (structure of the site)
+├── style.css           # CSS file (styling, themes, animations)
+├── script.js           # JavaScript file (interactivity, dark mode, typing effect)
+├── assets/             # Folder for images, icons, fonts (optional)
+│   ├── profile.jpg     # Example profile image
+│   └── project1.png    # Example project screenshot
+└── README.md           # Project documentation
 
 ## 🛠️ Technologies Used
 
