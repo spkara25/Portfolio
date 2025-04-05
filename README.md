@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio Website
 
-This is a modern, responsive, and slightly complex personal portfolio website built using **HTML**, **CSS**, and **JavaScript**. It showcases your projects, skills, and contact details, along with interactive features like dark mode and animated typing effects.
+This is a modern and responsive personal portfolio website built using **HTML**, **CSS**, and **JavaScript**. It showcases your projects, skills, and contact details, along with interactive features like dark mode and animated typing effects.
 
 ## 🚀 Features
 
